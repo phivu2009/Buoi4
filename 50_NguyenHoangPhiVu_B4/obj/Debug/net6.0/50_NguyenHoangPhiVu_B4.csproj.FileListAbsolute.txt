@@ -1,0 +1,14 @@
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\bin\Debug\net6.0\50_NguyenHoangPhiVu_B4.exe
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\bin\Debug\net6.0\50_NguyenHoangPhiVu_B4.deps.json
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\bin\Debug\net6.0\50_NguyenHoangPhiVu_B4.runtimeconfig.json
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\bin\Debug\net6.0\50_NguyenHoangPhiVu_B4.dll
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\bin\Debug\net6.0\50_NguyenHoangPhiVu_B4.pdb
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.GeneratedMSBuildEditorConfig.editorconfig
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.AssemblyInfoInputs.cache
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.AssemblyInfo.cs
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.csproj.CoreCompileInputs.cache
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.dll
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\refint\50_NguyenHoangPhiVu_B4.dll
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.pdb
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\50_NguyenHoangPhiVu_B4.genruntimeconfig.cache
+E:\TKTT\50_NguyenHoangPhiVu_B4\50_NguyenHoangPhiVu_B4\obj\Debug\net6.0\ref\50_NguyenHoangPhiVu_B4.dll
